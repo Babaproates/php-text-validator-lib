@@ -1,7 +1,7 @@
 # PHP Text Validator Lib
 
 > Original Repos:   
-> - PHP Text Validator Lib: https://github.com/a19836/phptextvalidatorlib/   
+> - PHP Text Validator Lib: https://github.com/a19836/php-text-validator-lib/   
 > - Bloxtor: https://github.com/a19836/bloxtor/
 
 ## Overview
